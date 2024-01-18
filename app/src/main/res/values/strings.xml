@@ -1,3 +1,18 @@
 <resources>
     <string name="app_name">Note</string>
+    <string name="my_name">Bahrom Primqulov</string>
+    <string name="text_1">• Experience the power of organized note-taking with our app. Stay on top of your tasks and ideas effortlessly.</string>
+    <string name="text_2">• Say goodbye to scattered notes and hello to streamlined productivity. Our app keeps your notes organized and accessible.</string>
+    <string name="text_3">• Whether you\'re a student, professional, or creative thinker, our note app is designed to meet your note-taking needs.</string>
+    <string name="text_4">• Stay productive on the go with our mobile note app. Access your notes from anywhere, anytime.</string>
+    <string name="text_5">• Discover the simplicity of note-taking with our user-friendly app. Write, edit, and manage your notes with ease.</string>
+    <string name="text_6">• Protect your ideas with our secure note app. Your notes are safe and private, just like your thoughts.</string>
+    <string name="text_7">• Customize your note-taking experience with our app. Choose fonts, themes, and layouts that suit your style.</string>
+    <string name="text_8">• About GITA ACADEMY:\nThis app was developed by Bahrom Primqulov, a student at GITA ACADEMY, as part of programming studies. Your support is greatly appreciated.</string>
+    <string name="text_9">• Design by Divya Kelaskar, taken from Figma</string>
+    <string name="contact_me">• Contact with Bahrom Primqulov:</string>
+    <string name="contact_gita">• Contact with GITA ACADEMY:</string>
+    <string name="notes">Notes</string>
+    <string name="title">Title</string>
+    <string name="updated_at">Updated At</string>
 </resources>
